@@ -28,7 +28,11 @@ public class Swagger3RestController {
 		rooms.add(new Room(2,"Deluxe Room", "Air Conditioner, Free Wi-fi, TV, BathRoom", 800, "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotelalpilivigno.com%2Fcamere&psig=AOvVaw0WgrV0lY0HWQfSw2Y_dFsk&ust=1675335162123000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCGyPuT9PwCFQAAAAAdAAAAABAE", "15-Nov-2021", "18-Nov-2021", 4D));
 		rooms.add(new Room(3,"Private Room", "Air Conditioner, TV, BathRoom", 1500, "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotelalpilivigno.com%2Fcamere&psig=AOvVaw0WgrV0lY0HWQfSw2Y_dFsk&ust=1675335162123000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCGyPuT9PwCFQAAAAAdAAAAABAE", "08-Dec-2021", "12-Dec-2021", 5D));
 		rooms.add(new Room(4,"Economy Room", "TV, BathRoom", 100, "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotelalpilivigno.com%2Fcamere&psig=AOvVaw0WgrV0lY0HWQfSw2Y_dFsk&ust=1675335162123000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCGyPuT9PwCFQAAAAAdAAAAABAE", "25-Apr-2021", "30-Apr-2021", 3D));
-		
+		rooms.add(new Room(4,"Economy Room", "TV, BathRoom", 100, "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotelalpilivigno.com%2Fcamere&psig=AOvVaw0WgrV0lY0HWQfSw2Y_dFsk&ust=1675335162123000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCGyPuT9PwCFQAAAAAdAAAAABAE", "25-Apr-2021", "30-Apr-2021", 3D));
+		rooms.add(new Room(4,"Economy Room", "TV, BathRoom", 100, "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotelalpilivigno.com%2Fcamere&psig=AOvVaw0WgrV0lY0HWQfSw2Y_dFsk&ust=1675335162123000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCGyPuT9PwCFQAAAAAdAAAAABAE", "25-Apr-2021", "30-Apr-2021", 3D));
+		rooms.add(new Room(4,"Economy Room", "TV, BathRoom", 100, "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotelalpilivigno.com%2Fcamere&psig=AOvVaw0WgrV0lY0HWQfSw2Y_dFsk&ust=1675335162123000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCGyPuT9PwCFQAAAAAdAAAAABAE", "25-Apr-2021", "30-Apr-2021", 3D));
+		rooms.add(new Room(4,"Economy Room", "TV, BathRoom", 100, "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotelalpilivigno.com%2Fcamere&psig=AOvVaw0WgrV0lY0HWQfSw2Y_dFsk&ust=1675335162123000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCGyPuT9PwCFQAAAAAdAAAAABAE", "25-Apr-2021", "30-Apr-2021", 3D));
+
 	}
 
 
