@@ -21,6 +21,7 @@ import java.util.stream.Collectors;
 @RestController
 public class Swagger3RestController {
 
+	//test some git features
 	List<Room> rooms = new ArrayList<Room>();
 	{
 		rooms.add(new Room(1,"Deluxe Room", "Air Conditioner, Free Wi-fi, TV, BathRoom", 500, "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotelalpilivigno.com%2Fcamere&psig=AOvVaw0WgrV0lY0HWQfSw2Y_dFsk&ust=1675335162123000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCGyPuT9PwCFQAAAAAdAAAAABAE", "11-Nov-2021", "12-Nov-2021", 4.5));
